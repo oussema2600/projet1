@@ -9,9 +9,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tn.esprit.spring.services</groupId>
-	<artifactId>timesheet-devops</artifactId>
+	<artifactId>gestion-station-ski</artifactId>
 	<version>1.0</version>
-	<name>timesheet-devops</name>
+	<name>gestion-station-ski</name>
 	<description>tp-spring-jsf-crud</description>
 	<properties>
 		<java.version>1.8</java.version>
